@@ -22,7 +22,7 @@ It is not possible to partake in lab if these are not completed.
 
 *   Text Editor
 *   Subshell
-*   Git]
+*   Git
 *   GitHub
 *   Slack
 
@@ -55,11 +55,9 @@ Submit your assignments by 3 a.m. the day of [lab 2][w2lab].
 
 ### Assignments Context & User Interaction
 
-#### Context 
-
 For your project, define context in small groups:
 
-**Perform a competitor analysis**
+##### Perform a competitor analysis
 - e-matching: usefulness, but not too playful, free + paid (www.e-matching.nl)
 - tinder: swipe swipe, hands-on, quick, free (www.tinder.com)
 - inner circle: only via invite of members, free? (www.theinnercircle.co)
@@ -71,7 +69,7 @@ For your project, define context in small groups:
 - zoosk: integrated facebook & google+ (www.zoosk.com)
 - victoria milan: dating for extramarital affairs (www.victoriamilan.nl)
 
-**Define user search**
+##### Define user search
 - man looking for woman
 - man looking for man
 - woman looking for man
@@ -81,7 +79,7 @@ For your project, define context in small groups:
 - marketeer
 - data science expert
 
-**Define user intentions**
+##### Define user intentions
 - looking for a date
 - looking for a long-term serious relationship
 
@@ -89,21 +87,19 @@ For your project, define context in small groups:
 - looking for an overview of user activity
 - looking for data analysis to market
 
-**Create user journeys for users who are**
+##### Create user journeys for users who are
 - looking all the time / mobile / anywhere / anytime
 - looking on specific moments / at home / evening
 - looking from a professional point of view / at work / daytime
 
-#### User Interaction
-
-**playfulness**
+##### Define playful user interactions
 - ranking
 - liking
 - poking
 - playing minigames
 - ......
 
-**user actions**
+##### Define user actions
 - registering
 - fill profile
 - searching
