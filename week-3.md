@@ -1,6 +1,6 @@
 <!--lint disable no-html-->
 
-# Week 2: User Profile & Playful Interaction
+# Week 3: User Profile & Playful Interaction
 
 ## Table of Contents
 
@@ -32,7 +32,7 @@
 
 [![][comic-cover]][comic-link]
 
-> You Hang Up First by [**@xkcd**][comic-author].
+> Science Valentine by [**@xkcd**][comic-author].
 
 You’re expected to spend about 6 hours on assignments outside of class.
 Submit your assignments by 3 a.m. the day of [lab 2][w2lab].
