@@ -31,7 +31,7 @@
 
 [![][comic-cover]][comic-link]
 
-> You Hang Up First by [**@xkcd**][comic-author].
+> DFS by [**@xkcd**][comic-author].
 
 You’re expected to spend about 6 hours on assignments outside of class.
 Submit your assignments by 3 a.m. the day of [lab 2][w2lab].
@@ -48,9 +48,9 @@ Submit your assignments by 3 a.m. the day of [lab 2][w2lab].
 
 [inspiration-author]: https://github.com/duiker101
 
-[comic-cover]: https://imgs.xkcd.com/comics/you_hang_up_first.png
+[comic-cover]: https://imgs.xkcd.com/comics/dfs.png
 
-[comic-link]: https://xkcd.com/698/
+[comic-link]: https://xkcd.com/761/
 
 [comic-author]: https://xkcd.com
 
