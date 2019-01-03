@@ -1,6 +1,6 @@
 <!--lint disable no-html-->
 
-# Week 2: Functionalities & Components
+# Week 2: Registering & Functionalities
 
 ## Table of Contents
 
