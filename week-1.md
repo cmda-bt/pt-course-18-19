@@ -1,12 +1,6 @@
 <!--lint disable no-html-->
 
-# Week 1
-
-## Comic
-
-[![][comic-cover]][comic-link]
-
-> Angular Momentum by [**@xkcd**][comic-author].
+# Week 1: Engaging in the matter
 
 ## Table of Contents
 
@@ -50,12 +44,17 @@ It is not possible to partake in lab if these are not completed.
 
 ## Assignments
 
+[![][comic-cover]][comic-link]
+
+> Angular Momentum by [**@xkcd**][comic-author].
+
 You’re expected to spend about 6 hours on assignments outside of class.
 Submit your assignments by 3 a.m. the day of [lab 2][w2lab].
 
 ### Assignments Context & User Interaction
 
-For your project, define context in small groups:
+For your project, perform contextual analysis by means of these steps. Make choices right away and define your user context this week. Make sure you verify your choices. Verifying means: displaying your choices to people outside of your class and make sure to get feedback on the feasability of your choices. No large interviews or observational research, but short and hands-on talks. You do need to provide some proof of concept during your assessment at the end of this course. 
+You can work in small groups (3-4 students). 
 
 ##### Perform a competitor analysis
 - e-matching: usefulness, but not too playful, free + paid (www.e-matching.nl)
