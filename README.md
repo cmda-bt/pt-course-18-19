@@ -19,8 +19,12 @@ Project Tech classroom
     Write docs in Markdown ([**week 1**][w1] and [**week 2**][w2])
 
 
-[comic-cover]: https://imgs.xkcd.com/comics/dfs.png
+[![][comic-cover]][comic-link]
 
-[comic-link]: https://xkcd.com/761/
+> Conditional Risk by [**@xkcd**][comic-author].
+
+[comic-cover]: https://imgs.xkcd.com/comics/conditional_risk.png
+
+[comic-link]: https://xkcd.com/795/
 
 [comic-author]: https://xkcd.com
