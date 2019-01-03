@@ -10,7 +10,6 @@
 
 ## Table of Contents
 
-*   [Comic](#comic)
 *   [Prerequisites](#prerequisites)
 *   [Lab](#lab)
 *   [Assignments](#assignments)
