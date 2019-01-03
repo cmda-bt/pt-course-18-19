@@ -14,86 +14,19 @@ commitments deeper and deeper.
 *   [Lab](#lab)
 *   [Assignments](#assignments)
 
-## Comic
-
-[![][comic-cover]][comic-link]
-
-> Angular Momentum by [**@xkcd**][comic-author].
-
 ---
 ## Prerequisites
 
-Finish the following prerequisites before this week’s lab.
+Finish the prerequisites before this week’s lab, see Wiki week 1. 
 It is not possible to partake in lab if these are not completed.
 
-*   [Text Editor](#text-editor)
-*   [Subshell](#subshell)
-*   [Git](#git)
-*   [GitHub](#github)
-*   [Slack](#slack)
+*   Text Editor
+*   Subshell
+*   Git]
+*   GitHub
+*   Slack
 
-#### Text Editor
-
-If you don’t have one yet, install a text editor.
-[Atom](https://atom.io) or [Sublime](https://www.sublimetext.com) are good
-choices.
-Other ones, like VS Code, are nice but lecturers may not be able to help you
-with problems.
-
-#### Subshell
-
-If you’re on Windows, you should upgrade to Windows 10 (64 bit) and install
-the Windows Subsystem for Linux using [this
-guide](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/)
-(takes about 15 minutes).
-Follow it until you see “Installation successful”.
-
-Now, open CMD (hit **Start**, type **cmd**, and press **Enter**), and type
-**bash** (and press **Enter**) to start Bash.
-
-#### Git
-
-If you installed the [Windows Subsystem for Linux](#subshell) just now, install
-Git by running `apt-get install git` in Bash.
-
-If you are not on Windows, install Git from their website, by [downloading
-the latest release](https://git-scm.com).
-
-#### GitHub
-
-If you haven’t already, [sign up for
-GitHub](https://help.github.com/articles/signing-up-for-a-new-github-account/).
-
-Take some time to set up your [GitHub profile](https://github.com/settings/profile).
-Include your name, a profile picture, and a URL to your homepage.
-You’re allowed to stay anonymous online for this course by omitting sensitive
-information, but a good looking GitHub profile can help you get an internship
-or job later.
-
-Connect Git and GitHub together like so:
-
-```sh
-git config --global user.name "Mona Lisa"
-git config --global user.email "mona@lisa.com"
-```
-
-Use the same email for Git as you used to sign up for GitHub.
-
-#### Slack
-
-Sign up for our Slack workspace on `cmda-tech.slack.com`.
-Get invited by clicking on the invite link on our [class page on
-Moodle][moodle-be].
-Join the `Project` channel in our workspace.
-
-Get your Slack set up properly, and then send your lecturer a direct message
-including your **real name**, **student number**, **class**, and **GitHub
-username**.
-We’ll use this info to link your GitHub and Slack to our administration files.
-
----
-
-## Lab
+# Lab
 
 #### Synopsis
 
@@ -103,16 +36,6 @@ We’ll use this info to link your GitHub and Slack to our administration files.
 *   [**Slides**][slides-lab]
 
 #### Schedule
-
-*   Course outline
-*   Context & User Interaction ([**subgoal 0**][s0])
-*   Command line ([**subgoal 1**][s1])
-*   Git ([**subgoal 2**][s2])
-*   GitHub ([**subgoal 3**][s3])
-*   Markdown ([**subgoal 4**][s4])
-*   Readme ([**subgoal 4**][s4])
-
-##### Schedule
 
 *   Recap
 *   Markdown ([**subgoal 4**][s3])
@@ -130,9 +53,11 @@ We’ll use this info to link your GitHub and Slack to our administration files.
 You’re expected to spend about 6 hours on assignments outside of class.
 Submit your assignments by 3 a.m. the day of [lab 2][w2lab].
 
-### I. Context & User Interaction
+### Assignments Context & User Interaction
 
-For your project, define context:
+#### Context 
+
+For your project, define context in small groups:
 
 **Perform a competitor analysis**
 - e-matching: usefulness, but not too playful, free + paid (www.e-matching.nl)
@@ -169,7 +94,7 @@ For your project, define context:
 - looking on specific moments / at home / evening
 - looking from a professional point of view / at work / daytime
 
-## User Interaction
+#### User Interaction
 
 **playfulness**
 - ranking
@@ -191,7 +116,7 @@ For your project, define context:
 - chatting
 - facetime
 
-### II. Git, Github & Markdown
+### Assignments Git, Github & Markdown
 
 1.   [Markup](#markup) (**practice**)
 2.   [Run](#run) (**practice**)
@@ -206,7 +131,7 @@ For your project, define context:
 
 ---
 
-### Markup language (lightweight)
+### I. Markup language (lightweight)
 
 In this assignment you’ll learn the basics of Markdown.
 
@@ -241,7 +166,7 @@ lists, and more).
 
 ---
 
-### Run the Command Line
+### II. Run the Command Line
 
 In this assignment you’ll learn the basics of the command line.
 
@@ -875,7 +800,7 @@ In it, include the **code** you were given.
 
 ---
 
-### Try Git
+### III. Try Git
 
 In this assignment you’ll learn the basics of Git.
 
@@ -910,7 +835,7 @@ Let us know in the issue if you liked this assignment, and give us any feedback.
 
 ---
 
-### Github - Octocat
+### IV. Github - Octocat
 
 In this assignment you’ll learn the basics of GitHub and advance your knowledge
 of Git.
@@ -956,7 +881,7 @@ Let us know in the issue what you thought of the exercises.
 
 ---
 
-### Profile
+### V. Profile
 
 In this assignment you’ll apply your newfound command line, Git, GitHub, and
 Markdown skills.
@@ -1053,6 +978,14 @@ and be ready for tips and tops!
 *   [`StevenBlack/hosts`](https://github.com/StevenBlack/hosts)
 *   [`l1k/osxparanoia`](https://github.com/l1k/osxparanoia)
 *   [macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
+
+---
+
+## Comic
+
+[![][comic-cover]][comic-link]
+
+> Angular Momentum by [**@xkcd**][comic-author].
 
 ---
 
