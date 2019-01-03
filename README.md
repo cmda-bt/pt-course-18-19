@@ -21,10 +21,10 @@ Project Tech classroom
 
 [![][comic-cover]][comic-link]
 
-> Conditional Risk by [**@xkcd**][comic-author].
+> Convinving by [**@xkcd**][comic-author].
 
-[comic-cover]: https://imgs.xkcd.com/comics/conditional_risk.png
+[comic-cover]: https://imgs.xkcd.com/comics/convincing.png
 
-[comic-link]: https://xkcd.com/795/
+[comic-link]: https://xkcd.com/833/
 
 [comic-author]: https://xkcd.com
