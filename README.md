@@ -17,3 +17,10 @@ Project Tech classroom
     Collaborate on GitHub ([**week 1**][w1] and [**week 2**][w2])
 4.  <a name="subgoal-4"></a>
     Write docs in Markdown ([**week 1**][w1] and [**week 2**][w2])
+
+
+[comic-cover]: https://imgs.xkcd.com/comics/dfs.png
+
+[comic-link]: https://xkcd.com/761/
+
+[comic-author]: https://xkcd.com
