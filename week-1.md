@@ -2,10 +2,11 @@
 
 # Week 1
 
-> Every single poem written regular is a symbol - small or great - of the way the will has to pitch into 
-commitments deeper and deeper.
->
-> — [Robert Frost, The Constant Symbol (1946)](https://twitter.com/denniscode/status/957847866445385728)
+## Comic
+
+[![][comic-cover]][comic-link]
+
+> Angular Momentum by [**@xkcd**][comic-author].
 
 ## Table of Contents
 
@@ -978,14 +979,6 @@ and be ready for tips and tops!
 *   [`StevenBlack/hosts`](https://github.com/StevenBlack/hosts)
 *   [`l1k/osxparanoia`](https://github.com/l1k/osxparanoia)
 *   [macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
-
----
-
-## Comic
-
-[![][comic-cover]][comic-link]
-
-> Angular Momentum by [**@xkcd**][comic-author].
 
 ---
 
