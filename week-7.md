@@ -30,7 +30,7 @@
 
 [![][comic-cover]][comic-link]
 
-> Walkthrough by [**@xkcd**][comic-author].
+> Workaround by [**@xkcd**][comic-author].
 
 You’re expected to spend about 6 hours on assignments outside of class.
 Submit your assignments by 3 a.m. the day of [lab 2][w2lab].
@@ -47,9 +47,9 @@ Submit your assignments by 3 a.m. the day of [lab 2][w2lab].
 
 [inspiration-author]: https://github.com/duiker101
 
-[comic-cover]: https://imgs.xkcd.com/comics/walkthrough.png
+[comic-cover]: https://imgs.xkcd.com/comics/workaround.png
 
-[comic-link]: https://xkcd.com/744/
+[comic-link]: https://xkcd.com/763/
 
 [comic-author]: https://xkcd.com
 
