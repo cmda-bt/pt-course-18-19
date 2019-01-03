@@ -36,7 +36,7 @@
 You’re expected to spend about 6 hours on assignments outside of class.
 Submit your assignments by 3 a.m. the day of [lab 2][w2lab].
 
-### Assignments User Profile & Questionnaire
+### Assignments Privacy & Data
 
 ---
 
