@@ -1,6 +1,4 @@
-# pt-course-18-19
-Project Tech classroom
-
+#![Project Tech - Course 2018-2019][banner]
 
 | Week | Effort | Topic - Tech  | Topic - Methods         | Activities                             |
 | ---- | -----: | ------------- | ----------------------- | -------------------------------------- |
@@ -28,3 +26,5 @@ Project Tech classroom
 [comic-link]: https://xkcd.com/833/
 
 [comic-author]: https://xkcd.com
+
+[banner]: https://cmda-bt.github.io/pt-course-18-19/assets/banner.svg
