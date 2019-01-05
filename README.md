@@ -1,4 +1,15 @@
-#![Project Tech - Course 2018-2019][banner]
+# ![Project Tech - Course 2018-2019][banner]
+
+## Table of Contents
+
+*   [Synopsis](#synopsis)
+*   [Description](#description)
+*   [Communication](#communication)
+*   [Goals](#goals)
+*   [Grade](#grade)
+*   [Resources](/resources.md)
+*   [Conduct](#conduct)
+*   [License](#license)
 
 | Week | Effort | Topic - Tech  | Topic - Methods         | Activities                             |
 | ---- | -----: | ------------- | ----------------------- | -------------------------------------- |
