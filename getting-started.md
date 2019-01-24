@@ -7,6 +7,7 @@
 *   [Prerequisites](#prerequisites)
 *   [Installation](#installation)
 *   [Communication](#communication)
+*   [Introduction](#introduction)
 
 ## Prerequisites
 
@@ -71,6 +72,9 @@ including your **real name**, **student number**, **class**, and **GitHub
 username**.
 We’ll use this info to link your GitHub and Slack to our administration files.
 
+### Introduction
+Introduce yourself to your teacher and class! Open an issue on our [GitHub issue tracker][issues]. You can pick what are called `issue templates`. Each assignment has a different template in which you can hand in your assignments for that week. This is also the place where Teachers and Student-Asistants will give you feedback.
+
 ### Questions
 
 If you have questions (in this order):
@@ -95,3 +99,4 @@ If you have questions (in this order):
 [synopsis]: #synopsis
 [slack]: https://cmda-tech.slack.com/
 [banner-guide]: https://cmda-bt.github.io/pt-course-18-19/assets/banner-guide.svg
+[issues]: https://github.com/cmda-bt/pt-course-18-19/issues/new/choose
