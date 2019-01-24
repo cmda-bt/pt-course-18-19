@@ -11,7 +11,6 @@
 *   [Conduct](#conduct)
 *   [License](#license)
 
-
 ## Synopsis
 
 Project Tech is given at [**@CMDA**][cmda] in 2019 between
@@ -118,7 +117,7 @@ The below table breaks down the general time needed per week.
 | ---- | -----: | ----------------------------| ----------------                   |
 | 0    |  NaN   | getting started             | [getting started][gs]              |
 | 1    |  9:20h | git & github, competitive   | [lab][w1lab], [assignments][w1a]   |
-| 2    |  9:20h | cli & markdown, job stories | [lab][w2lab], [assignments][w2a]   |
+| 2    |  9:20h | cli, job stories            | [lab][w2lab], [assignments][w2a]   |
 | 3    |  9:20h | coaching                    | [lab][w3lab], coaching             |
 | 4    |  9:20h | configs, requirements       | [lab][w4lab], [assignments][w4a]   |
 | 5    |  9:20h | collaboration, reviews      | [lab][w5lab], [assignments][w5a]   |

@@ -19,7 +19,7 @@
 
 ## Assignments
 
-### I. Markup language (lightweight)
+### Markup language (lightweight)
 
 In this assignment you’ll learn the basics of Markdown.
 
@@ -44,7 +44,7 @@ Follow it until you see “Congratulations”.
 *   Stuck?  See the [Bugs][] section of the course readme to find a list of
     troubleshooting tips
 
-### II. Try Git
+### Try Git
 
 In this assignment you’ll learn the basics of Git.
 
@@ -120,9 +120,15 @@ Let us know in the issue what you thought of the exercises.
 *   [5 GitHub tips for new coders](https://medium.freecodecamp.org/5-github-tips-for-new-coders-2f312689ffd5)
 *   [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 
----
+### II. Context & User Interaction
 
-### Context & User Interaction
+#### Synopsis
+
+*   **Time**: 5:00h
+*   **Goals**: subgoal 3 
+*   **Due**: before [lab 2][w2lab]
+
+#### Description
 
 For your project, perform contextual analysis by means of these steps. Make choices right away and define your user context this week. Make sure you verify your choices. Verifying means: displaying your choices to people outside of your class and make sure to get feedback on the feasability of your choices. No large interviews or observational research, but short and hands-on talks. You do need to provide some proof of concept during your assessment at the end of this course. 
 You can work in small groups (3-4 students). 
@@ -209,6 +215,14 @@ You can work in small groups (3-4 students).
 - facetime
 </details>
 
+7. Look at the Branding of the product
+
+#### Methods
+*   [Competitive Analyses](http://cmdmethods.nl/cards/library/competitive-analysis)
+*   [Persona](http://cmdmethods.nl/cards/stepping-stones/persona)
+*   [Mood Board](http://cmdmethods.nl/cards/stepping-stones/mood-board)
+*   [Design specification](http://cmdmethods.nl/cards/stepping-stones/design-specification)
+
 ### Hand in
 
 1. **Create a wiki**  
@@ -240,61 +254,17 @@ Hand in your research in your repository on GitHub under your username.
 
 [w2lab]: week-2.md#lab
 
-[markup-cover]: images/note.jpg
-
 [markup-cover-source]: https://unsplash.com/photos/Hb6uWq0i4MI
 
 [markup-cover-author]: https://unsplash.com/@climatereality
 
 [md-tutorial]: https://www.markdowntutorial.com
 
-[markup-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Markup%20assignment&labels=week-1%2Cweek-1%3Amarkup
-
-[run-cover]: images/run.jpg
-
-[run-cover-source]: https://unsplash.com/photos/Zp-wTck-3Zw
-
-[run-cover-author]: https://unsplash.com/@anniespratt
-
-[run-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Run%20assignment&labels=week-1%2Cweek-1%3Arun
-
-[try-git-cover]: images/try.jpg
-
-[try-git-cover-source]: https://unsplash.com/photos/xceMsVvxcd4
-
-[try-git-cover-author]: https://unsplash.com/@martinceralde
-
 [try-git]: https://try.github.io
-
-[try-git-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Try%20Git%20assignment&labels=week-1%2Cweek-1%3Atry-git
-
-[octocat-cover]: images/octocat.jpg
-
-[octocat-cover-source]: https://unsplash.com/photos/Bb_X4JgSqIM
-
-[octocat-cover-author]: https://unsplash.com/@brina_blum
 
 [octocat-intro-to-github]: https://services.github.com/on-demand/intro-to-github/
 
 [octocat-github-cli]: https://services.github.com/on-demand/github-cli/
-
-[octocat-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Octocat%20assignment&labels=week-1%2Cweek-1%3Aoctocat
-
-[profile-cover]: images/profile.jpg
-
-[profile-cover-source]: https://unsplash.com/photos/HFkTGu30w5E
-
-[profile-cover-author]: https://unsplash.com/@oliver_photographer
-
-[profile-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Profile%20assignment&labels=week-1%2Cweek-1%3Aprofile
-
-[s1]: readme.md#subgoal-1
-
-[s2]: readme.md#subgoal-2
-
-[s3]: readme.md#subgoal-3
-
-[s4]: readme.md#subgoal-4
 
 [moodle-be]: https://moodle.cmd.hva.nl/course/view.php?id=431
 

@@ -12,7 +12,7 @@ labels: 'week-1, bt-1, week-1-octocat'
 `Add your name here`
 
 ## Class
-`Add your class here``
+`Add your class here`
 
 ## GitHub username
 `Add a link to your github page`
