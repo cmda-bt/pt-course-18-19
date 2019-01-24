@@ -21,6 +21,7 @@
 #### Schedule
 
 *   Recap
+*   Huisstijl & persona
 *   Registering ([**subgoal ..**][s..])
 *   Functionalities ([**subgoal 1**][s1])
 *   Job Stories
