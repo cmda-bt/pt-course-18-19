@@ -1001,3 +1001,7 @@ more useful, and prettier.
 [moodle-be]: https://moodle.cmd.hva.nl/course/view.php?id=431
 
 [cowsay]: https://github.com/piuccio/cowsay
+
+[![][comic-cover]][comic-link]
+
+> Convinving by [**@xkcd**][comic-author].
