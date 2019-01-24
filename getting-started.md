@@ -65,7 +65,7 @@ Use the same email for Git as you used to sign up for GitHub.
 Sign up for our Slack workspace on `cmda-tech.slack.com`.
 Get invited by clicking on the invite link on our [class page on
 Moodle][moodle].
-Join the `Backend` channel in our workspace.
+Join the `#project-tech` channel in our workspace.
 
 Get your Slack set up properly, and then send your lecturer a direct message
 including your **real name**, **student number**, **class**, and **GitHub
@@ -73,7 +73,7 @@ username**.
 We’ll use this info to link your GitHub and Slack to our administration files.
 
 ### Introduction
-Introduce yourself to your teacher and class! Open an issue on our [GitHub issue tracker][issues]. You can pick what are called `issue templates`. Each assignment has a different template in which you can hand in your assignments for that week. This is also the place where Teachers and Student-Asistants will give you feedback.
+Introduce yourself to your teacher and class! Open an issue on our [GitHub issue tracker][issues]. You can pick what are called `issue templates`. Each assignment has a different template in which you can hand in your assignments for that week. This is also the place where teachers and student-assistants will give you feedback.
 
 ### Questions
 
@@ -95,7 +95,7 @@ If you have questions (in this order):
 > ※ We we expect students who lack in knowledge to catch
 > up on their own.
 
-[moodle]: https://moodle.cmd.hva.nl/course/view.php?id=431
+[moodle]: https://moodle.cmd.hva.nl/course/index.php?categoryid=92
 [examples]: examples
 [stackoverflow]: https://stackoverflow.com
 [duckduckgo]: https://duckduckgo.com
