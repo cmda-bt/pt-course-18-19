@@ -92,6 +92,9 @@ If you have questions (in this order):
 *   [Ask questions on Slack][slack]
 *   [Contact a lecturer][synopsis]
 
+> ※ We we expect students who lack in knowledge to catch
+> up on their own.
+
 [moodle]: https://moodle.cmd.hva.nl/course/view.php?id=431
 [examples]: examples
 [stackoverflow]: https://stackoverflow.com
