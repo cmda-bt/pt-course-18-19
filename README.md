@@ -116,10 +116,10 @@ The below table breaks down the general time needed per week.
 | 0    |  NaN   | getting started             | [getting started][gs]              |
 | 1    |  9:20h | git & github, competitive   | [lab][w1lab], [assignments][w1a]   |
 | 2    |  9:20h | cli, job stories            | [lab][w2lab], [assignments][w2a]   |
-| 3    |  9:20h | coaching sessions           | [lab][w3lab], coaching             |
+| 3    |  9:20h | coaching sessions           | [scheduler][scheduler1]            |
 | 4    |  9:20h | configs, requirements       | [lab][w4lab], [assignments][w4a]   |
 | 5    |  9:20h | collaboration, reviews      | [lab][w5lab], [assignments][w5a]   |
-| 6    |  9:20h | coaching sessions           | [lab][w6lab], coaching             |
+| 6    |  9:20h | coaching sessions           | [scheduler][scheduler2]            |
 | 7    |  9:20h | prototype (coaching)        | [lab][w7lab], work on prototype    |
 | 8    |  9:20h | prototype (coaching)        | [lab][w8lab], work on prototype    |
 | 9    |  NaN   | oral test                   | [oral test][grading]               |
@@ -199,6 +199,9 @@ docs and images are [CC-BY-4.0][].
 [w6a]: week-6#assignments.md
 [w7a]: week-7#assignments.md
 [w8a]: week-8#assignments.md
+
+[scheduler1]: https://moodle.cmd.hva.nl/mod/scheduler/view.php?id=28870
+[scheduler2]: https://moodle.cmd.hva.nl/mod/scheduler/view.php?id=28871
 
 [grading]: grading.md
 [bachelor]: https://www.cmd-amsterdam.nl/english/
