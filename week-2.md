@@ -7,7 +7,6 @@
 *   [Assignments](#assignments)
 *   [Homework](#homework)
 
-
 ## Comic
 
 [![][comic-cover]][comic-link]
@@ -29,7 +28,7 @@ In this assignment you’ll learn the basics of the command line.
 *   **Practice**
 *   **Time**: 0:30h
 *   **Goals**: subgoal 1
-*   **Due**: before lab 3 [w3lab]
+*   **Due**: before [lab 3][w3lab]
 
 #### Step A
 
@@ -105,9 +104,8 @@ In it, include the **code** you were given.
 
 *   **Homework**
 *   **Time**: 3:45h
-*   **Goals**: [subgoal 1][s1], [subgoal 2][s2], [subgoal 3][s3], and
-    [subgoal 4][s4]
-*   **Due**: 3 a.m. the day of [lab 2][w2lab]
+*   **Goals**: subgoal 1, subgoal 2 subgoal 3 and subgoal 4
+*   **Due**: before [lab 3][w3lab]
 
 #### Tips
 
@@ -205,71 +203,9 @@ Hand in your research in your repository on GitHub under your username.
 
 [comic-author]: https://xkcd.com
 
-[refresh]: readme.md#resources-to-refresh-your-memory
+[slides-lab]: https://docs.google.com/presentation/d/1LH-Z-xazqk2nXGI8vfbknODnAN67Xn7z-KQkLCk-P10/edit?usp=sharing
 
-[slides-lecture]: https://docs.google.com/presentation/d/1iozO2yIjCPoMztV8td0h1MEoM2O0VjmLzzMI0xfSTDg/edit?usp=sharing
-
-[slides-lab]: https://docs.google.com/presentation/d/1FQrPU-T4j4xChCuUekXQPxs0DPYw-TRRTbV7IPJ9Tbk/edit?usp=sharing
-
-[w2lab]: week-2.md#lab
-
-[markup-cover]: images/note.jpg
-
-[markup-cover-source]: https://unsplash.com/photos/Hb6uWq0i4MI
-
-[markup-cover-author]: https://unsplash.com/@climatereality
-
-[md-tutorial]: https://www.markdowntutorial.com
-
-[markup-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Markup%20assignment&labels=week-1%2Cweek-1%3Amarkup
-
-[run-cover]: images/run.jpg
-
-[run-cover-source]: https://unsplash.com/photos/Zp-wTck-3Zw
-
-[run-cover-author]: https://unsplash.com/@anniespratt
-
-[run-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Run%20assignment&labels=week-1%2Cweek-1%3Arun
-
-[try-git-cover]: images/try.jpg
-
-[try-git-cover-source]: https://unsplash.com/photos/xceMsVvxcd4
-
-[try-git-cover-author]: https://unsplash.com/@martinceralde
-
-[try-git]: https://try.github.io
-
-[try-git-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Try%20Git%20assignment&labels=week-1%2Cweek-1%3Atry-git
-
-[octocat-cover]: images/octocat.jpg
-
-[octocat-cover-source]: https://unsplash.com/photos/Bb_X4JgSqIM
-
-[octocat-cover-author]: https://unsplash.com/@brina_blum
-
-[octocat-intro-to-github]: https://services.github.com/on-demand/intro-to-github/
-
-[octocat-github-cli]: https://services.github.com/on-demand/github-cli/
-
-[octocat-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Octocat%20assignment&labels=week-1%2Cweek-1%3Aoctocat
-
-[profile-cover]: images/profile.jpg
-
-[profile-cover-source]: https://unsplash.com/photos/HFkTGu30w5E
-
-[profile-cover-author]: https://unsplash.com/@oliver_photographer
-
-[profile-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Profile%20assignment&labels=week-1%2Cweek-1%3Aprofile
-
-[s1]: readme.md#subgoal-1
-
-[s2]: readme.md#subgoal-2
-
-[s3]: readme.md#subgoal-3
-
-[s4]: readme.md#subgoal-4
-
-[moodle-be]: https://moodle.cmd.hva.nl/course/view.php?id=431
+[w3lab]: week-3.md#lab
 
 [cowsay]: https://github.com/piuccio/cowsay
 

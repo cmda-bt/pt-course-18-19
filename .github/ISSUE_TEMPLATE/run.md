@@ -1,5 +1,5 @@
 ---
-name: Run
+name: Week 2 - Run
 about: Learn the basics of GitHub and advance your knowledge
 of Git.
 title: Week 2 - Run

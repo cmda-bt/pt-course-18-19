@@ -250,7 +250,7 @@ Hand in your research in your repository on GitHub under your username.
 
 [refresh]: readme.md#resources-to-refresh-your-memory
 
-[slides-lab]:
+[slides-lab]: https://docs.google.com/presentation/d/1gggkF4ApZKREzE9IaoE9ZmUsSfFb6BboU0KGbDqT7lk/edit?usp=sharing
 
 [w2lab]: week-2.md#lab
 

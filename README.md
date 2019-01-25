@@ -23,7 +23,7 @@ Project Tech is given at [**@CMDA**][cmda] in 2019 between
     [Anne Marleen Olthof][amgit] ([**@annemarleen**][amweb])
     (*tech3*)
 *   **SIS**: Project Tech
-*   **Credit**: 3 ECTS
+*   **Credit**: 5 ECTS
 *   **Academic year**: 2018-2019
 *   **Period**: Quarter 3 (spring)
 *   **Programme**: Communication and Multimedia Design (full time bachelor)
@@ -32,9 +32,7 @@ Project Tech is given at [**@CMDA**][cmda] in 2019 between
 
 ## Description
 
-In **Project Tech** you'll build a dynamic prototype of a web application. In different roles you take a well-argued position on, among other things, the privacy and security aspects of the application.
-
-You'll also learn to *navigate the command line*, version control with *Git & GitHub* and make sure *code style* is consistent.
+In **Project Tech** you'll build a dynamic prototype of a web application. In different roles you take a well-argued position on, among other things, the privacy and security aspects of the application. You'll also learn to *navigate the command line*, version control with *Git & GitHub* and make sure *code style* is consistent.
 
 ## Communication
 
@@ -118,10 +116,10 @@ The below table breaks down the general time needed per week.
 | 0    |  NaN   | getting started             | [getting started][gs]              |
 | 1    |  9:20h | git & github, competitive   | [lab][w1lab], [assignments][w1a]   |
 | 2    |  9:20h | cli, job stories            | [lab][w2lab], [assignments][w2a]   |
-| 3    |  9:20h | coaching                    | [lab][w3lab], coaching             |
+| 3    |  9:20h | coaching sessions           | [lab][w3lab], coaching             |
 | 4    |  9:20h | configs, requirements       | [lab][w4lab], [assignments][w4a]   |
 | 5    |  9:20h | collaboration, reviews      | [lab][w5lab], [assignments][w5a]   |
-| 6    |  9:20h | coaching                    | [lab][w6lab], coaching             |
+| 6    |  9:20h | coaching sessions           | [lab][w6lab], coaching             |
 | 7    |  9:20h | prototype (coaching)        | [lab][w7lab], work on prototype    |
 | 8    |  9:20h | prototype (coaching)        | [lab][w8lab], work on prototype    |
 | 9    |  NaN   | oral test                   | [oral test][grading]               |
