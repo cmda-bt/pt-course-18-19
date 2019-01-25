@@ -1,7 +1,7 @@
 ---
 name: Week 2 - Run
-about: Learn the basics of GitHub and advance your knowledge of Git.
-title: Week 2 - Run
+about: Learn the basics of the command line
+title: Run
 labels: 'week-2, bt-1, week-2-run'
 ---
 

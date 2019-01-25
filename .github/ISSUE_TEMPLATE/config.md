@@ -1,0 +1,23 @@
+---
+name: Week 4 - Config
+about: Set up linters and configurations.
+title: Config
+labels: 'week-4, bt-1, week-4-config'
+---
+
+# Config
+
+## Name
+`Add your name here`
+
+## Class
+`Add your class here`
+
+## GitHub username
+`Add a link to your github page`
+
+## GitHub repository
+`Add a link to your github repository`
+
+## Summary
+`A summary of what you did. What progress did you make?`
