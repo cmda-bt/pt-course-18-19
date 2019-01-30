@@ -39,13 +39,13 @@ Conduct][ruc] ([Regeling Ongewenst Gedrag][rog]).
 [speaker-ali]: https://www.alispit.tel/#/
 [speaker-jenny]: https://jennyshen.com/
 [speaker-martijn]: http://www.martijnnieuwenhuizen.nl/
-[speaker-albert]: https://www.linkedin.com/in/albertbrand/
-[speaker-ronny]: https://www.linkedin.com/in/ronny-rook-02ab1622/
+[speaker-albert]: https://twitter.com/al_bert_brand
+[speaker-ronny]: https://www.labela.nl/team
 [speaker-peter]: https://peterpeerdeman.nl/
 [speaker-timon]: https://timonvanspronsen.nl/
 [speaker-nienke]: https://nienkedekker.com/
 [speaker-leon]: http://leondekorte.nl/
-[speaker-marko]: https://www.linkedin.com/in/marko-kruijer-a142471a/
+[speaker-marko]: https://www.fabrique.nl/onze-mensen/
 
 [banner-guests]: https://cmda-bt.github.io/pt-course-18-19/assets/banner-guests.svg
 [sketch]: https://www.smashingmagazine.com/2014/11/how-to-get-started-with-sketchnotes/
