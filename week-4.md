@@ -33,8 +33,8 @@
 
 > GeoIP by [**@xkcd**][comic-author].
 
-You’re expected to spend about 6 hours on assignments outside of class.
-Submit your assignments by 3 a.m. the day of [lab 2][w2lab].
+### III. Usability Test
+Collect feedback on your static HTML. Let other students test it and give you feedback.
 
 ### Assignments Privacy & Data
 

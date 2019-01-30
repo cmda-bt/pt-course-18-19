@@ -96,7 +96,32 @@ In it, include the **code** you were given.
 
 ### Homework
 
-### I. Profile (optional)
+### II. Branding Research
+
+*   Registering 
+*   Functionalities
+*   Job Stories
+
+### III. Static site
+1. **Create a sitemap** of all the relevant pages of your feature. You can use google drawings or omnigraffle to create an overview
+2. **Sketch some wireframes** (or wireflows) of the interface. These can be rough sketches or more hi-fi. Find a fidelity that suits you.
+3. Turn your wireflow into **static HTML pages**. Do a HTML breakdown of your wireframe to see which semantic HTML elements you need. Ten create the HTML page for your feature.
+4. Add some **presentational CSS**. You've already done some branding research so you're already able to set-up some basic styles. Think about colors, fonts etc.
+
+#### Methods
+*   [Competitive Analyses](http://cmdmethods.nl/cards/library/competitive-analysis)
+
+### Hand in
+
+1. **Pages:**  
+Create a [page](https://guides.github.com/features/wikis/#adding-pages) for this week or section of your research on your [GitHub Wiki](https://guides.github.com/features/wikis/#creating-your-wiki). 
+
+1. **Push your changes:**  
+Hand in your research in your repository on GitHub under your username.
+
+---
+
+### Profile (optional)
 
 > **Optional**: This is a very cool assignment but it can be pretty hard /vague and isn't necessary to get further in the course. Only do this if you feel comfortable and want to do some advanced CLI things. 
 
@@ -171,23 +196,6 @@ In your repository, include the changed and added files.
 Also include a `readme.md`, documenting how to install your config files, what
 they do, and who you are.
 For example, something like [this one by **@holman**](https://github.com/holman/dotfiles#readme).
-
-### II. Branding Research
-
-*   Registering 
-*   Functionalities
-*   Job Stories
-
-#### Methods
-*   [Competitive Analyses](http://cmdmethods.nl/cards/library/competitive-analysis)
-
-### Hand in
-
-1. **Pages:**  
-Create a [page](https://guides.github.com/features/wikis/#adding-pages) for this week or section of your research on your [GitHub Wiki](https://guides.github.com/features/wikis/#creating-your-wiki). 
-
-1. **Push your changes:**  
-Hand in your research in your repository on GitHub under your username.
 
 [bugs]: readme.md#bugs
 

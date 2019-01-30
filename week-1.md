@@ -217,6 +217,8 @@ You can work in small groups (3-4 students).
 
 7. Look at the Branding of the product
 
+
+
 #### Methods
 *   [Competitive Analyses](http://cmdmethods.nl/cards/library/competitive-analysis)
 *   [Persona](http://cmdmethods.nl/cards/stepping-stones/persona)
@@ -226,6 +228,7 @@ You can work in small groups (3-4 students).
 ### Hand in
 
 1. **Create a wiki**  
+Collect the results of your research in a wiki documenting your progress.
 Instead of putting this research in seperate files or the `readme.md` of your project we would like you to create a [GitHub Wiki](https://guides.github.com/features/wikis/#creating-your-wiki) and document your process there. 
 
 1. **Pages:**  
