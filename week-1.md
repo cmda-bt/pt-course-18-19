@@ -155,7 +155,22 @@ You can work in small groups (3-4 students).
 - victoria milan: dating for extramarital affairs (www.victoriamilan.nl) </summary>
 </details>
 
-2. Define user search
+
+2. Define user intentions
+
+<details>
+  <summary>Examples</summary>
+    
+- looking for a date
+- looking for a long-term serious relationship
+
+- looking for new potential users
+- looking for an overview of user activity
+- looking for data analysis to market
+
+</details>
+
+3. Define user search
 
 <details>
   <summary>Examples</summary>
@@ -171,30 +186,21 @@ You can work in small groups (3-4 students).
 - data science expert
 </details>
 
-
-3. Define user intentions
-
+4. Define user actions
 <details>
   <summary>Examples</summary>
     
-- looking for a date
-- looking for a long-term serious relationship
+- registering
+- fill profile
+- searching
+- upgrade account (get extras)
 
-- looking for new potential users
-- looking for an overview of user activity
-- looking for data analysis to market
-
-</details>
-
-
-4. Create user journeys for users who are
-<details>
-  <summary>Examples</summary>
-    
-    
-- looking all the time / mobile / anywhere / anytime
-- looking on specific moments / at home / evening
-- looking from a professional point of view / at work / daytime
+- sending messages
+- receiving messages
+- sending pictures
+- receiving pictures
+- chatting
+- facetime
 
 </details>
 
@@ -211,22 +217,14 @@ You can work in small groups (3-4 students).
   
 </details>
 
-
-6. Define user actions
+6. Create user journeys for users who are
 <details>
   <summary>Examples</summary>
     
-- registering
-- fill profile
-- searching
-- upgrade account (get extras)
-
-- sending messages
-- receiving messages
-- sending pictures
-- receiving pictures
-- chatting
-- facetime
+    
+- looking all the time / mobile / anywhere / anytime
+- looking on specific moments / at home / evening
+- looking from a professional point of view / at work / daytime
 
 </details>
 
