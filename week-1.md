@@ -228,7 +228,15 @@ You can work in small groups (3-4 students).
 
 </details>
 
-7. Look at the Branding of the product
+7. Branding Style Guide / Moodboard
+<details>
+  <summary>Examples</summary>
+    
+  *  [article Brand Identity](https://visme.co/blog/brand-identity/)
+</details>
+
+8. Make a start with the specifications of the product and verify your design choices.
+
 
 
 
