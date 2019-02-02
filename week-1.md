@@ -139,9 +139,13 @@ You can work in small groups (3-4 students).
   <summary>
     Examples
   </summary>
-  - e-matching: usefulness, but not too playful, free + paid (www.e-matching.nl)
+    
+- e-matching: usefulness, but not too playful, free + paid (www.e-matching.nl)
+    
 - tinder: swipe swipe, hands-on, quick, free (www.tinder.com)
+
 - inner circle: only via invite of members, free? (www.theinnercircle.co)
+
 - parship: questionnaire, serious dating, expensive (www.parship.nl)
 - happn: find people crossing your path, free? (www.happn.com/en)
 - lexa: search, swipe, badges, free + paid (extras) (www.lexa.nl)
@@ -155,10 +159,12 @@ You can work in small groups (3-4 students).
 
 <details>
   <summary>Examples</summary>
-  - man looking for woman
+    
+- man looking for woman
 - man looking for man
 - woman looking for man
 - woman looking for woman
+
 
 - administrator / hosting party
 - marketeer
@@ -170,39 +176,47 @@ You can work in small groups (3-4 students).
 
 <details>
   <summary>Examples</summary>
-  - looking for a date
+    
+- looking for a date
 - looking for a long-term serious relationship
 
 - looking for new potential users
 - looking for an overview of user activity
 - looking for data analysis to market
+
 </details>
 
 
 4. Create user journeys for users who are
 <details>
   <summary>Examples</summary>
-  - looking all the time / mobile / anywhere / anytime
+    
+    
+- looking all the time / mobile / anywhere / anytime
 - looking on specific moments / at home / evening
 - looking from a professional point of view / at work / daytime
+
 </details>
 
 5. Define playful user interactions
 
 <details>
   <summary>Examples</summary>
+    
   - ranking
   - liking
   - poking
   - playing minigames
   - ......
+  
 </details>
 
 
 6. Define user actions
 <details>
   <summary>Examples</summary>
-  - registering
+    
+- registering
 - fill profile
 - searching
 - upgrade account (get extras)
@@ -213,6 +227,7 @@ You can work in small groups (3-4 students).
 - receiving pictures
 - chatting
 - facetime
+
 </details>
 
 7. Look at the Branding of the product
