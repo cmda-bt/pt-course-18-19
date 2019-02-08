@@ -85,7 +85,7 @@ of Git.
 
 *   **Practice**
 *   **Time**: 1:00h
-*   **Goals**: subgoal 3 
+*   **Goals**: subgoal 3
 *   **Due**: before [lab 2][w2lab]
 
 #### Tips
@@ -110,7 +110,7 @@ If you completed the exercises, mark this assignment as complete by opening an
 issue on our [GitHub issue tracker][issues].
 Include two links in your issue: one to the closed PR from the [Introduction to
 GitHub][octocat-intro-to-github] exercise, the other to the GitHub Pages website
-from [GitHub Pages from the Command Line][octocat-github-cli] exercise.
+from [GitHub Pages][octocat-github-cli] exercise.
 Let us know in the issue what you thought of the exercises.
 
 #### Extra resources
@@ -125,13 +125,13 @@ Let us know in the issue what you thought of the exercises.
 #### Synopsis
 
 *   **Time**: 5:00h
-*   **Goals**: subgoal 3 
+*   **Goals**: subgoal 3
 *   **Due**: before [lab 2][w2lab]
 
 #### Description
 
-For your project, perform contextual analysis by means of these steps. Make choices right away and define your user context this week. Make sure you verify your choices. Verifying means: displaying your choices to people outside of your class and make sure to get feedback on the feasability of your choices. No large interviews or observational research, but short and hands-on talks. You do need to provide some proof of concept during your assessment at the end of this course. 
-You can work in small groups (3-4 students). 
+For your project, perform contextual analysis by means of these steps. Make choices right away and define your user context this week. Make sure you verify your choices. Verifying means: displaying your choices to people outside of your class and make sure to get feedback on the feasability of your choices. No large interviews or observational research, but short and hands-on talks. You do need to provide some proof of concept during your assessment at the end of this course.
+You can work in small groups (3-4 students).
 
 1. Perform a competitor analysis
 
@@ -227,14 +227,14 @@ You can work in small groups (3-4 students).
 
 ### Hand in
 
-1. **Create a wiki**  
+1. **Create a wiki**
 Collect the results of your research in a wiki documenting your progress.
-Instead of putting this research in seperate files or the `readme.md` of your project we would like you to create a [GitHub Wiki](https://guides.github.com/features/wikis/#creating-your-wiki) and document your process there. 
+Instead of putting this research in seperate files or the `readme.md` of your project we would like you to create a [GitHub Wiki](https://guides.github.com/features/wikis/#creating-your-wiki) and document your process there.
 
-1. **Pages:**  
-Create a [page](https://guides.github.com/features/wikis/#adding-pages) for this week or section of your research. 
+1. **Pages:**
+Create a [page](https://guides.github.com/features/wikis/#adding-pages) for this week or section of your research.
 
-1. **Push your changes:**  
+1. **Push your changes:**
 Hand in your research in your repository on GitHub under your username.
 
 [bugs]: readme.md#bugs

@@ -17,6 +17,8 @@
     (**course**) — A Mini Series that will change how you write documentation
 *   🆓 [Command Line Power User](https://commandlinepoweruser.com/)
     (**course**) — A video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
+*   🆓 [A quick guide to Git](https://flaviocopes.com/git/)
+    (**guide**) — A quick guide to Git.
 
 ## 🛠 Toolbox
 *   [Z](https://github.com/rupa/z)
