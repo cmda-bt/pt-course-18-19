@@ -78,6 +78,21 @@ Previously you've customized the look and feel of your command line. We are goin
 
 You already started working on your interface. You might already have some sketches or written some views, partials or components with a templating engine. Collect feedback on your interface and Static HTML. Let other students test your interface and give you feedback.
 
+#### Methods
+*   [Usability Test](http://cmdmethods.nl/cards/lab/usability-testing)
+
+### Requirements List
+
+*   **Homework**
+*   **Time**: 1h
+*   **Goals**: subgoal 5
+
+Narrow down your Job Story in specific small functionalities and make a [list of requirements]() your feature should have. You can then apply the [MoSCoW method](https://en.wikipedia.org/wiki/MoSCoW_method) on your list to see which functionalities are must-haves and which ones are enhancements. 
+
+#### Methods
+*   [Requirements List](http://cmdmethods.nl/cards/stepping-stones/requirement-list)
+*   [MoSCoW method](https://en.wikipedia.org/wiki/MoSCoW_method)
+
 [bugs]: readme.md#bugs
 
 [comic-cover]: https://imgs.xkcd.com/comics/geoip.png
