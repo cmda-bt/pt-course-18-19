@@ -131,7 +131,6 @@ Let us know in the issue what you thought of the exercises.
 #### Description
 
 For your project, perform contextual analysis by means of these steps. Make choices right away and define your user context this week. Make sure you verify your choices. Verifying means: displaying your choices to people outside of your class and make sure to get feedback on the feasability of your choices. No large interviews or observational research, but short and hands-on talks. You do need to provide some proof of concept during your assessment at the end of this course.
-You can work in small groups (3-4 students).
 
 1. Perform a competitor analysis
 

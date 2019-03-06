@@ -5,7 +5,6 @@
 ## Table of Contents
 
 *   [Comic](#comic)
-*   [Slides](#slides)
 *   [Coaching](#coaching)
 *   [Homework](#homework)
 
@@ -17,10 +16,6 @@
 
 > Science Valentine by [**@xkcd**][comic-author].
 
-## Slides
-
-*   [**Slides**][slides-lab]
-
 ## Coaching
 
 There are no assignments during class, we'll be doing coaching sessions. 
@@ -29,11 +24,15 @@ There are no assignments during class, we'll be doing coaching sessions.
 
 Make sure you come to the coaching sessions prepared: 
 
+* Bring your Job Stories and Research to the session.
 * Think about which topics you want to talk about.
 * Think about which questions you want to ask.
+* Think about which deliverables you want feedback on.
 * Ask other students if they encountered the same problem and look for help.
 
 > These coaching sessions aren't meant to talk about technical problems, it's about your personal progress.
+
+
 
 ### Questions
 Here are some questions you can ask yourself to prepare:
@@ -52,9 +51,7 @@ Here are some questions you can ask yourself to prepare:
 
 ## Homework
 
-### Assignments User Profile & Playful Interaction
-
----
+Catch up on the assignments from the previous two weeks. Make sure you've done your user interaction research and started working on your static website. It's best to also feel comfortable using Git through the command line.
 
 [bugs]: readme.md#bugs
 
