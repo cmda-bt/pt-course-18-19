@@ -1,52 +1,84 @@
 <!--lint disable no-html-->
 
-# Week 4: Privacy & Data
+# Week 4: Configs & Requirements
 
 ## Table of Contents
 
-*   [Lab](#lab)
+*   [Comic](#comic)
+*   [Slides](#slides)
 *   [Assignments](#assignments)
+*   [Homework](#homework)
 
----
-
-# Lab
-
-#### Synopsis
-
-*   **Date**: 05-02
-*   [**Slides**][slides-lecture]
-*   **Date**: 08-02 (BT 1) or 06-02 (BT 2 and BT 3)
-*   [**Slides**][slides-lab]
-
-#### Schedule
-
-*   Recap
-*   Databases, data collecting & data storage ([**subgoal ..**][s..])
-*   Privacy by Design - user experience design ([**subgoal 1**][s1])
-*   Privacy Design Strategies & Tactics - systems thinking
-
----
-
-## Assignments
+## Comic
 
 [![][comic-cover]][comic-link]
 
 > GeoIP by [**@xkcd**][comic-author].
 
-### III. Usability Test
-Collect feedback on your static HTML. Let other students test it and give you feedback.
+## Slides
 
-### Assignments Privacy & Data
+*   [**Slides**][slides-lab]
 
----
+## Assignments
+
+### Linting (research)
+
+*   **Research**
+*   **Time**: 0:45h
+*   **Goals**: subgoal 5
+
+Take about 0:45h to investigate what 'linting' is: what is it used for, why is it useful and try to look for examples. 
+
+* Linting is commonly used to enforce consistent 'code quality', what do we mean by that?
+* What are common tools for 'linting'?
+* How can you implement these tools in your own project?
+* What are the difference between syntax and stylistic errors?
+
+## Homework
+
+### Linting (implementation)
+
+*   **Homework**
+*   **Time**: 3h
+*   **Goals**: subgoal 5
+
+Based on the research you conducted setup a (or multiple) linters in your own project. Ask yourself which tools are useful for your own project. If you're not sure which one to pick, the ones below are solid choices:
+
+* [`eslint`](https://eslint.org/) - pluggable linting utility for JavaScript
+* [`stylelint`](https://stylelint.io/) - modern linter that helps you avoid errors and enforce conventions in your styles
+* [`prettier`](https://prettier.io/) - opinionated code formatter
+* And so much [more](https://github.com/caramelomartins/awesome-linters#)
+
+Think about what rules you are going to enforce. Most linters requires you to configure those on your own. You can use linters most linters as script in your `package.json` or as an `extension` in your editor.
+
+> If you've configured a linter and want to use it in your editor, make sure you also install the corresponding extension!
+
+### Extensions
+
+*   **Homework**
+*   **Time**: 2h
+*   **Goals**: subgoal 5
+
+Previously you've customized the look and feel of your command line. We are going to do the same thing with your code editor. Since you spend quite some time in there it's good to customize it to your own liking. If you are still using Brackets, this might be a good assignment to broaden your horizon or even switch to another code editor such as [`Atom`](https://atom.io/) or [`VS Code`](https://code.visualstudio.com/).
+
+* Try a different color theme! Each editor come with some default options but you can also [browse through](http://color-themes.com/?view=index) lots of other community made ones.
+    * In VS Code these are called [color themes](https://code.visualstudio.com/docs/getstarted/themes).
+    * [Here](https://atom.io/themes) is a list for Atom, they are usually split between UI and syntax themes.
+* Install some extensions to enhance functionality of your editor.
+    * [VS Code marketplace](https://marketplace.visualstudio.com/vscode) and Atom [Packages](https://atom.io/packages) are the corresponding pages for extensions for both editors.
+* Get the most out of your edidtor by tweaking your settings and getting to know the shorcuts. Take some time to tweak some settings and learn some keyboard shortcuts. You can read the [Flight Manual](https://flight-manual.atom.io/) for Atom or read the [docs](https://code.visualstudio.com/docs) for VS Code
+
+> Wes and Scott (you might have taken one of their courses) have a good podcast called Syntax where they detail their setups. You can listen to [these episodes](https://syntax.fm/show/012/why-is-everyone-switching-to-vs-code) or look in the show notes for inspiration.
+
+### Usability Test
+
+*   **Homework**
+*   **Time**: 1h
+*   **Goals**: subgoal 5
+
+You already started working on your interface. You might already have some sketches or written some views, partials or components with a templating engine. Collect feedback on your interface and Static HTML. Let other students test your interface and give you feedback.
 
 [bugs]: readme.md#bugs
-
-[inspiration-cover]: images/hackertyper.png
-
-[inspiration-link]: http://hackertyper.net
-
-[inspiration-author]: https://github.com/duiker101
 
 [comic-cover]: https://imgs.xkcd.com/comics/geoip.png
 
@@ -54,70 +86,4 @@ Collect feedback on your static HTML. Let other students test it and give you fe
 
 [comic-author]: https://xkcd.com
 
-[refresh]: readme.md#resources-to-refresh-your-memory
-
-[slides-lecture]: https://docs.google.com/presentation/d/1iozO2yIjCPoMztV8td0h1MEoM2O0VjmLzzMI0xfSTDg/edit?usp=sharing
-
-[slides-lab]: https://docs.google.com/presentation/d/1FQrPU-T4j4xChCuUekXQPxs0DPYw-TRRTbV7IPJ9Tbk/edit?usp=sharing
-
-[w2lab]: week-2.md#lab
-
-[markup-cover]: images/note.jpg
-
-[markup-cover-source]: https://unsplash.com/photos/Hb6uWq0i4MI
-
-[markup-cover-author]: https://unsplash.com/@climatereality
-
-[md-tutorial]: https://www.markdowntutorial.com
-
-[markup-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Markup%20assignment&labels=week-1%2Cweek-1%3Amarkup
-
-[run-cover]: images/run.jpg
-
-[run-cover-source]: https://unsplash.com/photos/Zp-wTck-3Zw
-
-[run-cover-author]: https://unsplash.com/@anniespratt
-
-[run-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Run%20assignment&labels=week-1%2Cweek-1%3Arun
-
-[try-git-cover]: images/try.jpg
-
-[try-git-cover-source]: https://unsplash.com/photos/xceMsVvxcd4
-
-[try-git-cover-author]: https://unsplash.com/@martinceralde
-
-[try-git]: https://try.github.io
-
-[try-git-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Try%20Git%20assignment&labels=week-1%2Cweek-1%3Atry-git
-
-[octocat-cover]: images/octocat.jpg
-
-[octocat-cover-source]: https://unsplash.com/photos/Bb_X4JgSqIM
-
-[octocat-cover-author]: https://unsplash.com/@brina_blum
-
-[octocat-intro-to-github]: https://services.github.com/on-demand/intro-to-github/
-
-[octocat-github-cli]: https://services.github.com/on-demand/github-cli/
-
-[octocat-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Octocat%20assignment&labels=week-1%2Cweek-1%3Aoctocat
-
-[profile-cover]: images/profile.jpg
-
-[profile-cover-source]: https://unsplash.com/photos/HFkTGu30w5E
-
-[profile-cover-author]: https://unsplash.com/@oliver_photographer
-
-[profile-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Profile%20assignment&labels=week-1%2Cweek-1%3Aprofile
-
-[s1]: readme.md#subgoal-1
-
-[s2]: readme.md#subgoal-2
-
-[s3]: readme.md#subgoal-3
-
-[s4]: readme.md#subgoal-4
-
-[moodle-be]: https://moodle.cmd.hva.nl/course/view.php?id=431
-
-[cowsay]: https://github.com/piuccio/cowsay
+[slides-lab]: https://docs.google.com/presentation/d/1Jaq86Wo5qQkVzeJX2ZY1JoL8T5Lvfq4A7hC01sLNjUM/edit?usp=sharing
