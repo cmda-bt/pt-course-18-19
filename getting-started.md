@@ -12,7 +12,7 @@
 ## Prerequisites
 
 ### Text Editor
-If you don’t have one yet, install a text editor. [Atom](https://atom.io), [Sublime](https://www.sublimetext.com) and [VSCode](https://code.visualstudio.com/) are good choices. 
+If you don’t have one yet, install a text editor. [Atom](https://atom.io), [Sublime](https://www.sublimetext.com) and [VS Code](https://code.visualstudio.com/) are good choices. 
 
 > Be ware that lecturers may not be able to help you with problems in some editors.
 
