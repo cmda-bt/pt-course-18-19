@@ -27,7 +27,7 @@
 *   **Time**: 0:45h
 *   **Goals**: subgoal 5
 
-Take about 0:45h to investigate what 'linting' is: what is it used for, why is it useful and try to look for examples. 
+Take about 0:45h to investigate what 'linting' is: what is it used for, why is it useful and try to look for examples.
 
 * Linting is commonly used to enforce consistent 'code quality', what do we mean by that?
 * What are common tools for 'linting'?
@@ -87,11 +87,19 @@ You already started working on your interface. You might already have some sketc
 *   **Time**: 1h
 *   **Goals**: subgoal 5
 
-Narrow down your Job Story in specific small functionalities and make a [list of requirements]() your feature should have. You can then apply the [MoSCoW method](https://en.wikipedia.org/wiki/MoSCoW_method) on your list to see which functionalities are must-haves and which ones are enhancements. 
+Narrow down your Job Story in specific small functionalities and make a [list of requirements]() your feature should have. You can then apply the [MoSCoW method](https://en.wikipedia.org/wiki/MoSCoW_method) on your list to see which functionalities are must-haves and which ones are enhancements.
 
 #### Methods
 *   [Requirements List](http://cmdmethods.nl/cards/stepping-stones/requirement-list)
 *   [MoSCoW method](https://en.wikipedia.org/wiki/MoSCoW_method)
+
+### Hand in
+
+1. **Pages:**
+Create a [page](https://guides.github.com/features/wikis/#adding-pages) for this week or section of your research on your [GitHub Wiki](https://guides.github.com/features/wikis/#creating-your-wiki).
+
+1. **Push your changes:**
+Hand in your research in your repository on GitHub under your username.
 
 [bugs]: readme.md#bugs
 
