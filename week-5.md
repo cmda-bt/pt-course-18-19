@@ -53,7 +53,7 @@ Take about 1h to complete the [Managing Merge Conflicts course ](https://lab.git
 *   **Time**: 1h
 *   **Goals**: subgoal 9
 
-Take about 1h to complete the [Community Starter kit course](https://lab.github.com/githubtraining/community-starter-kit) on GitHub lab. You will learn about for your repository to make it easier for other to contribute to projects.
+Take about 1h to complete the [Community Starter kit course](https://lab.github.com/githubtraining/community-starter-kit) on GitHub lab. You will learn how you cam make it easier for others to contribute to projects.
 
 ## Homework
 
@@ -66,7 +66,7 @@ Take about 1h to complete the [Community Starter kit course](https://lab.github.
 Make a _pull request_ to **three different repositories** of fellow student. You can **fix some of the feedback** from the issue of the last assignment or **rewrite a part of the application** based on your own findings. Did you do it in an alternative way? Can you make the code more readable?
 
 * **Maintainer**: Have a good look at the incoming code from your fellow student. Does it adhere to your code standard? Do a thorough code review before you merge.
-* **Contributor**: Before you make a _pull request_ have a look at any code standards that the repository of the maintainer is currently using.
+* **Contributor**: Before you make a _pull request_ have a look at any code standards that the repository of the maintainer is currently using. How is the folder structure set-up? What features of `js` does your fellow student use?
 
 #### Methods
 *   [Quality Review](www.cmdmethods.nl/cards/showroom/quality-review)
