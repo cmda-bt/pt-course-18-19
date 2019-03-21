@@ -1,14 +1,12 @@
 <!--lint disable no-html-->
 
-# Week 3: User Profile & Playful Interaction
+# Week 3: Coaching sessions
 
 ## Table of Contents
 
 *   [Comic](#comic)
 *   [Coaching](#coaching)
 *   [Homework](#homework)
-
----
 
 ## Comic
 
@@ -20,7 +18,7 @@
 
 There are no assignments during class, we'll be doing coaching sessions. 
 
-> [Time slots are on Moodle](https://moodle.cmd.hva.nl/course/view.php?id=625)
+> [Schedule is on slack](https://www.cmda-slack.com)
 
 Make sure you come to the coaching sessions prepared: 
 
@@ -31,8 +29,6 @@ Make sure you come to the coaching sessions prepared:
 * Ask other students if they encountered the same problem and look for help.
 
 > These coaching sessions aren't meant to talk about technical problems, it's about your personal progress.
-
-
 
 ### Questions
 Here are some questions you can ask yourself to prepare:
@@ -61,18 +57,4 @@ Catch up on the assignments from the previous two weeks. Make sure you've done y
 
 [comic-author]: https://xkcd.com
 
-[slides-lab]: https://docs.google.com/presentation/d/1Jaq86Wo5qQkVzeJX2ZY1JoL8T5Lvfq4A7hC01sLNjUM/edit?usp=sharing
-
-[w2lab]: week-2.md#lab
-
-[s1]: readme.md#subgoal-1
-
-[s2]: readme.md#subgoal-2
-
-[s3]: readme.md#subgoal-3
-
-[s4]: readme.md#subgoal-4
-
 [moodle-be]: https://moodle.cmd.hva.nl/course/view.php?id=431
-
-[cowsay]: https://github.com/piuccio/cowsay
