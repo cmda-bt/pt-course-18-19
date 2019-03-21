@@ -19,5 +19,8 @@ labels: 'week-4, bt-1, week-4-config'
 ## GitHub repository
 `Add a link to your github repository`
 
+## Add a screenshot of your editor
+`Does it look fancy?`
+
 ## Summary
-`A summary of what you did. What progress did you make?`
+`A summary of what you did. What progress did you make? What extensions did you install?`
