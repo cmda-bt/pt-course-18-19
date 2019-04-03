@@ -1,46 +1,54 @@
 <!--lint disable no-html-->
 
-# Week 8: Assessments
+# Week 8: Reviews
 
 ## Table of Contents
 
-*   [Lab](#lab)
-*   [Assessments](#assessments)
+*   [Comic](#comic)
+*   [Slides](#slides)
+*   [Assignments](#assignments)
+*   [Homework](#homework)
 
----
-
-# Lab
-
-#### Synopsis
-
-*   **Date**: 05-02
-*   [**Slides**][slides-lecture]
-*   **Date**: 08-02 (BT 1) or 06-02 (BT 2 and BT 3)
-*   [**Slides**][slides-lab]
-
-#### Schedule
-
-*   Assessments
-
----
-
-## Assessments
+## Comic
 
 [![][comic-cover]][comic-link]
 
 > All the Girls by [**@xkcd**][comic-author].
 
-### Assessments
+## Lab
 
----
+There are no assignments due next week (or any future week). You can continue working on your prototype for the final assesment.
+
+#### Preparation
+
+Make sure you come to the lab prepared in advance:
+
+* Know which questions you want to ask.
+* If you have a bug, investigate and try to make a detailed explanation of your problem.
+* Ask other students if they encountered the same problem.
+
+#### Demo
+
+We'll do a live demo or recap a specific topic from previous lessons.
+
+#### Review
+
+During these classes we'll also be reviewing each others code. Make sure you made progress so you have something to get feedback on.
+
+## Homework
+
+Next week [**assessment 2**](/assessments/a2.md) will take place. Make sure you come to the assesment prepared in advance:
+* Have a look at the [rubic](/grading.md) and **grade yourself**. Bring the filled in rubic to the oral test.
+* Check out the [checklist](/grading.md) below the rubic. Did you forget anything?
+
+Presenting your work is a skill all by itself, make sure you prepare yourself properly. The best way is to treat it as [public speaking](https://abookapart.com/products/demystifying-public-speaking) and there are [many books](https://be.noti.st/2018/recommended-books-for-public-speakers) on public speaking available.
+* Bring your own computer and a charger.
+* Have the latest version of your code ready in your editor.
+* Open up your docs inside of your GitHub repository.
+* Have a live version up and running.
+
 
 [bugs]: readme.md#bugs
-
-[inspiration-cover]: images/hackertyper.png
-
-[inspiration-link]: http://hackertyper.net
-
-[inspiration-author]: https://github.com/duiker101
 
 [comic-cover]: https://imgs.xkcd.com/comics/all_the_girls.png
 
@@ -50,68 +58,4 @@
 
 [refresh]: readme.md#resources-to-refresh-your-memory
 
-[slides-lecture]: https://docs.google.com/presentation/d/1iozO2yIjCPoMztV8td0h1MEoM2O0VjmLzzMI0xfSTDg/edit?usp=sharing
-
-[slides-lab]: https://docs.google.com/presentation/d/1FQrPU-T4j4xChCuUekXQPxs0DPYw-TRRTbV7IPJ9Tbk/edit?usp=sharing
-
-[w2lab]: week-2.md#lab
-
-[markup-cover]: images/note.jpg
-
-[markup-cover-source]: https://unsplash.com/photos/Hb6uWq0i4MI
-
-[markup-cover-author]: https://unsplash.com/@climatereality
-
-[md-tutorial]: https://www.markdowntutorial.com
-
-[markup-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Markup%20assignment&labels=week-1%2Cweek-1%3Amarkup
-
-[run-cover]: images/run.jpg
-
-[run-cover-source]: https://unsplash.com/photos/Zp-wTck-3Zw
-
-[run-cover-author]: https://unsplash.com/@anniespratt
-
-[run-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Run%20assignment&labels=week-1%2Cweek-1%3Arun
-
-[try-git-cover]: images/try.jpg
-
-[try-git-cover-source]: https://unsplash.com/photos/xceMsVvxcd4
-
-[try-git-cover-author]: https://unsplash.com/@martinceralde
-
-[try-git]: https://try.github.io
-
-[try-git-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Try%20Git%20assignment&labels=week-1%2Cweek-1%3Atry-git
-
-[octocat-cover]: images/octocat.jpg
-
-[octocat-cover-source]: https://unsplash.com/photos/Bb_X4JgSqIM
-
-[octocat-cover-author]: https://unsplash.com/@brina_blum
-
-[octocat-intro-to-github]: https://services.github.com/on-demand/intro-to-github/
-
-[octocat-github-cli]: https://services.github.com/on-demand/github-cli/
-
-[octocat-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Octocat%20assignment&labels=week-1%2Cweek-1%3Aoctocat
-
-[profile-cover]: images/profile.jpg
-
-[profile-cover-source]: https://unsplash.com/photos/HFkTGu30w5E
-
-[profile-cover-author]: https://unsplash.com/@oliver_photographer
-
-[profile-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Profile%20assignment&labels=week-1%2Cweek-1%3Aprofile
-
-[s1]: readme.md#subgoal-1
-
-[s2]: readme.md#subgoal-2
-
-[s3]: readme.md#subgoal-3
-
-[s4]: readme.md#subgoal-4
-
 [moodle-be]: https://moodle.cmd.hva.nl/course/view.php?id=431
-
-[cowsay]: https://github.com/piuccio/cowsay
