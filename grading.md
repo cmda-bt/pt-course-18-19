@@ -1,13 +1,20 @@
-# Grading
+# ![Project Tech - Grading][banner]
+
+## Table of Contents
+
+*   [Grade](#grade)
+*   [Assesments](#assesments)
+*   [Publishing](#publishing)
+*   [Plagiarism](#plagiarism)
 
 ## Grade
 
 | Task                                |   Weight |
 | ----------------------------------  | -------: |
-| Prototype (oral test)  |      100% |
+| Prototype (oral test)               |     100% |
 | **Total**                           | **100%** |
 
-## Oral Test
+## Assesment
 This is an oral test where you present your prototype with your team. You will show how you contributed to the project and explain if you reached your own goals you've set at the beginning of the project. You'll show you can contribute to the prototype in which you applied the subject matter of this course and that you understand it. You'll answer questions in such a way as to demonstrate sufficient knowledge of our goals.
 
 ## Preperation
@@ -17,6 +24,14 @@ This is an oral test where you present your prototype with your team. You will s
 * Have a live version up and running.
 
 > Make sure the repository stays online after the oral test is finished, we might want to check the code handed in on GitHub after the test. We also want to download and archive your project when it’s done.
+
+## Publishing
+Grades will be published and communicated trough _Email_, _Moodle_ and/or _Slack_ based on student numbers.
+
+* Final grades will be **published** _one week_ after test date.
+* Final grades will be put in **SIS** _two weeks_ after test date.
+
+> After the oral test you can request **viewing time** for additional feedback, this can be useful for a resit. Feel free to [contact your lecturer](/readme#synopsis) if you want to do so.
 
 ## Plagiarism
 
@@ -51,3 +66,5 @@ You are not allowed to simply use portions of someone else's work in your projec
 > More information on the [Student Copyright Information Point](https://www.amsterdamuas.com/library/services/copyright/students.html)
 
 The manner in which you cite your sources depends. The most widely used style at the AUAS is [APA](https://www.amsterdamuas.com/library/services/acknowledging-sources/apa-style/apa-style.html). Make sure you cite your sources in the repository or documentation of your project on GitHub.
+
+[banner]: https://cmda-bt.github.io/pt-course-18-19/assets/banner-grading.svg
