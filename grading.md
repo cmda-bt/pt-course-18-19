@@ -11,19 +11,39 @@
 
 | Task                                |   Weight |
 | ----------------------------------  | -------: |
-| Prototype (oral test)               |     100% |
+| [Assesment 1][a1] (oral test)       |      60% |
+| [Assesment 2][a2] (oral test)       |      40% |
 | **Total**                           | **100%** |
 
-## Assesment
-This is an oral test where you present your prototype with your team. You will show how you contributed to the project and explain if you reached your own goals you've set at the beginning of the project. You'll show you can contribute to the prototype in which you applied the subject matter of this course and that you understand it. You'll answer questions in such a way as to demonstrate sufficient knowledge of our goals.
 
-## Preperation
-* Bring your computer and a charger.
-* Have the latest version of your code ready in your editor.
-* Open up your docs inside of your GitHub repository.
-* Have a live version up and running.
+```js
+if (!a1 && !a2) {
+  grade = 'GR'
+} else if (a1 < 5.5 || a2 < 5.5) {
+  grade = 1
+} else {
+  grade = (a1 * 0.6) + (a2 * 0.4)
+}
+```
 
-> Make sure the repository stays online after the oral test is finished, we might want to check the code handed in on GitHub after the test. We also want to download and archive your project when it’s done.
+## Assesments
+
+### Assesment 1 - Individual
+This is an oral test where you individually present the feature you created. You will show you can create a quality project in which you apply the subject matter of this course and that you understand it. You will answer questions in such a way as to demonstrate sufficient knowledge of our goals.
+
+* [Learning goals][goals]
+* [Subgoals][goals]
+
+> [Rubic of Assesment 1][a1]
+
+### Assesment 2 - Team
+This is an oral test where you present your prototype with your team. You will show how you contributed to the project and explain if you reached your own goals you've set at the beginning of the project.
+
+* [Learning goals][goals]
+* [Subgoals][goals]
+
+> [Rubic of Assesment 2][a2]
+
 
 ## Publishing
 Grades will be published and communicated trough _Email_, _Moodle_ and/or _Slack_ based on student numbers.
@@ -59,12 +79,12 @@ a full definition, but here are a few cases that count as plagiarism:
 >
 > \[…]
 
-## Copyright
+You are not allowed to simply use portions of someone else's work in your project. The copyright is owned by the creator of the work. You must cite the sources used. Quoting or using material without a source citation is plagiarism and is punishable. More information on the [Student Copyright Information Point](https://www.amsterdamuas.com/library/services/copyright/students.html)
 
-You are not allowed to simply use portions of someone else's work in your project. The copyright is owned by the creator of the work. You must cite the sources used, even if another student helped you. Quoting or using material without citation is plagiarism and is punishable.  
+The manner in which you cite your sources depends. The most widely used style at the AUAS is [APA](https://www.amsterdamuas.com/library/services/acknowledging-sources/apa-style/apa-style.html) of the American Psychological Association. Make sure you cite your sources in the repository or documentation of your project on GitHub.
 
-> More information on the [Student Copyright Information Point](https://www.amsterdamuas.com/library/services/copyright/students.html)
-
-The manner in which you cite your sources depends. The most widely used style at the AUAS is [APA](https://www.amsterdamuas.com/library/services/acknowledging-sources/apa-style/apa-style.html). Make sure you cite your sources in the repository or documentation of your project on GitHub.
-
+[a1]: assesments/a1.md
+[a2]: assesments/a2.md
 [banner]: https://cmda-bt.github.io/pt-course-18-19/assets/banner-grading.svg
+[goals]: https://github.com/cmda-bt/pt-course-18-19#goals
+[grading]: grading.md
