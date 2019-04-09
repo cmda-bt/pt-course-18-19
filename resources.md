@@ -32,4 +32,26 @@
 *   [Stylelint](https://github.com/stylelint/stylelint)
     (**linting**) — A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
 
+
+## Products
+* _Interactive Application_
+* _Prototype_
+* _Flows or wireframes_
+* _Sitemap_
+* _Moodboard_
+* _Persona_
+
+## Methods
+* [Pitch](http://www.cmdmethods.nl/cards/showroom/pitch)
+* [Prototype](http://www.cmdmethods.nl/cards/stepping-stones/prototype)
+* [Prototyping](http://www.cmdmethods.nl/cards/workshop/prototyping)
+* [Usability Testing](http://www.cmdmethods.nl/cards/lab/usability-testing)
+* [Peer Review](www.cmdmethods.nl/cards/showroom/peer-review)
+* [Competitive Analyses](http://cmdmethods.nl/cards/library/competitive-analysis)
+* [Persona](http://cmdmethods.nl/cards/stepping-stones/persona)
+* [Mood Board](http://cmdmethods.nl/cards/stepping-stones/mood-board)
+* [Design specification](http://cmdmethods.nl/cards/stepping-stones/design-specification)
+* [Requirements List](http://cmdmethods.nl/cards/stepping-stones/requirement-list)
+* [MoSCoW method](https://en.wikipedia.org/wiki/MoSCoW_method)
+
 [banner-resources]: https://cmda-bt.github.io/pt-course-18-19/assets/banner-resources.svg
