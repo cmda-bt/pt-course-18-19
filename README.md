@@ -68,7 +68,6 @@ The main goals in this course are that you’re able to:
 *   You can navigate the command-line
 *   You can customize your local development machine
 
-
 #### Sub goals
 
 In practice you’ll learn to:
@@ -124,9 +123,9 @@ The below table breaks down the general time needed per week.
 | 4    |  9:20h | configs, requirements       | [lab][w4lab], [assignments][w4a]   |
 | 5    |  9:20h | collaboration, reviews      | [lab][w5lab], [assignments][w5a]   |
 | 6    |  9:20h | coaching sessions           | [scheduler][scheduler2]            |
-| 7    |  NaN   | assesment 1                 | [a1 (oral test)][grading]          |
+| 7    |  NaN   | assessment 1                | [a1 (oral test)][grading]          |
 | 8    |  9:20h | prototype (coaching)        | [lab][w8lab], work on prototype    |
-| 9    |  NaN   | assesment 2                 | [a2 (oral test)][grading]          |
+| 9    |  NaN   | assessment 2                | [a2 (oral test)][grading]          |
 
 <details>
     <summary>Schedule</summary>
@@ -138,8 +137,8 @@ The below table breaks down the general time needed per week.
 
 | Task                                |   Weight |
 | ----------------------------------  | -------: |
-| [Assesment 1][a1] (oral test)       |      60% |
-| [Assesment 2][a2] (oral test)       |      40% |
+| [Assessment 1][a1] (oral test)       |      60% |
+| [Assessment 2][a2] (oral test)       |      40% |
 | **Total**                           | **100%** |
 
 ## Programme

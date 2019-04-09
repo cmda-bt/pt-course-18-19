@@ -35,6 +35,25 @@ We'll do a live demo or recap a specific topic from previous lessons.
 
 During these classes we'll also be reviewing each others code. Make sure you made progress so you have something to get feedback on.
 
+## Assignments
+
+### Reflection
+
+*   **Reflection**
+*   **Time**: 1:30h
+*   **Goals**: subgoal 9/10
+
+Take about 0:45h to write a _personal reflection_ of this project. 
+* If yould take this course again, what would you do different?
+* What went well?
+* What could be better?
+* Did you reach your own learning goals?
+
+Then, take about 0:45h to write a _team reflection_ of this project. 
+* How did the communication go?
+* Does the project feel finished, did you want to add anything?
+
+
 ## Homework
 
 Next week [**assessment 2**](/assessments/a2.md) will take place. Make sure you come to the assesment prepared in advance:
