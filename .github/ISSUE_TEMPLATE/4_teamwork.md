@@ -2,7 +2,7 @@
 name: Week 5 - Teamwork
 about: Collaborate on GitHub.
 title: Config
-labels: 'week-5, bt-1, week-5-teamwork'
+labels: 'week-5, week-5-teamwork'
 ---
 
 # Config

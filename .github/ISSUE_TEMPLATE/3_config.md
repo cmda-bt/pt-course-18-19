@@ -2,7 +2,7 @@
 name: Week 4 - Config
 about: Set up linters and configurations.
 title: Config
-labels: 'week-4, bt-1, week-4-config'
+labels: 'week-4, week-4-config'
 ---
 
 # Config

@@ -2,7 +2,7 @@
 name: Week 2 - Run
 about: Learn the basics of the command line
 title: Run
-labels: 'week-2, bt-1, week-2-run'
+labels: 'week-2, week-2-run'
 ---
 
 # Run

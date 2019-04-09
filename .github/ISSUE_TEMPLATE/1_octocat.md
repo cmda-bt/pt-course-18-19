@@ -2,7 +2,7 @@
 name: Week 1 - Octocat
 about: Learn the basics of GitHub and advance your knowledge of Git.
 title: Octocat
-labels: 'week-1, bt-1, week-1-octocat'
+labels: 'week-1, week-1-octocat'
 ---
 
 # Octocat
