@@ -60,10 +60,13 @@ If you have questions:
 
 #### Main goals
 
-The 2 main goals in this course are that you’re able to:
+The main goals in this course are that you’re able to:
 
-*   Collaborate (formal and informal) with other developers
-*   Adhere to standards; code style, documentation
+*   You can collaborate with other developers on GitHub using Git
+*   You can document your project and write a readme
+*   You can adhere to code standards (code style) using configs and linters
+*   You can navigate the command-line
+*   You can customize your local development machine
 
 #### Sub goals
 
@@ -120,9 +123,9 @@ The below table breaks down the general time needed per week.
 | 4    |  9:20h | configs, requirements       | [lab][w4lab], [assignments][w4a]   |
 | 5    |  9:20h | collaboration, reviews      | [lab][w5lab], [assignments][w5a]   |
 | 6    |  9:20h | coaching sessions           | [scheduler][scheduler2]            |
-| 7    |  9:20h | prototype (coaching)        | [lab][w7lab], work on prototype    |
+| 7    |  NaN   | assessment 1                | [a1 (oral test)][grading]          |
 | 8    |  9:20h | prototype (coaching)        | [lab][w8lab], work on prototype    |
-| 9    |  NaN   | oral test                   | [oral test][grading]               |
+| 9    |  NaN   | assessment 2                | [a2 (oral test)][grading]          |
 
 <details>
     <summary>Schedule</summary>
@@ -134,7 +137,8 @@ The below table breaks down the general time needed per week.
 
 | Task                                |   Weight |
 | ----------------------------------  | -------: |
-| [Prototype][grading] (oral test)  |      100% |
+| [Assessment 1][a1] (oral test)       |      60% |
+| [Assessment 2][a2] (oral test)       |      40% |
 | **Total**                           | **100%** |
 
 ## Programme
@@ -190,6 +194,9 @@ docs and images are [CC-BY-4.0][].
 [w6lab]: week-6.md
 [w7lab]: week-7.md
 [w8lab]: week-8.md
+
+[a1]: assessments/a1.md
+[a2]: assessments/a2.md
 
 [w1a]: week-1#assignments.md
 [w2a]: week-2#assignments.md

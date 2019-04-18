@@ -15,6 +15,9 @@
 
 > All the Girls by [**@xkcd**][comic-author].
 
+## Survey
+We’d like to make this course better, much better, and we’re super interested in what you think of this course! You’d help us enormously by filling out [this survey](https://forms.gle/yHUHBRA1DmNcdfjKA). It should take about **15 minutes** and it can be filled in completely _anonymous_.
+
 ## Lab
 
 There are no assignments due next week (or any future week). You can continue working on your prototype for the final assesment.
@@ -34,6 +37,25 @@ We'll do a live demo or recap a specific topic from previous lessons.
 #### Review
 
 During these classes we'll also be reviewing each others code. Make sure you made progress so you have something to get feedback on.
+
+## Assignments
+
+### Reflection
+
+*   **Reflection**
+*   **Time**: 1:30h
+*   **Goals**: subgoal 9/10
+
+Take about 0:45h to write a _personal reflection_ of this project. 
+* If yould take this course again, what would you do different?
+* What went well?
+* What could be better?
+* Did you reach your own learning goals?
+
+Then, take about 0:45h to write a _team reflection_ of this project. 
+* How did the communication go?
+* Does the project feel finished, did you want to add anything?
+
 
 ## Homework
 
