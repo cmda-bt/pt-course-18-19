@@ -16,8 +16,8 @@ labels: 'week-1, week-1-octocat'
 ## GitHub username
 <!-- Add a link to your github page -->
 
-## I Closed PR
+## Links
 <!-- Link to the closed PR from the Introduction to GitHub exercise -->
 
-## II GitHub Pages
-<!-- Link to the GitHub Pages website -->
+## Feedback
+<!-- What did you think of the assignments? -->
