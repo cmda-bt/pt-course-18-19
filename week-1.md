@@ -103,15 +103,12 @@ of Git.
 
 Take ± 30 minutes to follow the [Introduction to
 GitHub][octocat-intro-to-github] exercise.
-Then, take ± 30 minutes to follow the [GitHub Pages from the Command
-Line][octocat-github-cli] exercise.
+Then, take ± 30 minutes to follow the [Git-It Desktop app][octocat-github-cli] exercise.
 
 If you completed the exercises, mark this assignment as complete by opening an
 issue on our [GitHub issue tracker][issues].
-Include two links in your issue: one to the closed PR from the [Introduction to
-GitHub][octocat-intro-to-github] exercise, the other to the GitHub Pages website
-from [GitHub Pages][octocat-github-cli] exercise.
-Let us know in the issue what you thought of the exercises.
+
+Include the links from your exercises in your issue. Let us know in the issue what you thought of the exercises.
 
 #### Extra resources
 
@@ -287,7 +284,7 @@ Hand in your research in your repository on GitHub under your username.
 
 [octocat-intro-to-github]: https://services.github.com/on-demand/intro-to-github/
 
-[octocat-github-cli]: https://services.github.com/on-demand/github-cli/
+[octocat-github-cli]: https://github.com/jlord/git-it-electron
 
 [moodle-be]: https://moodle.cmd.hva.nl/course/view.php?id=431
 
