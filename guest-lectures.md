@@ -1,6 +1,6 @@
 # ![Guest lectures][banner-guests]
 
-Every week we have the pleasure to have a guest speaker talk about _project tech_ related topics, either in the form of a _short talk, guest lecture or Q&A session_. We have speakers from [Label A][labela], [De Correspondent][correspondent], [Awkward][awkward], [Fabrique][fabrique] and many great freelancers.
+Every week we have the pleasure to have a guest speaker talk about _project tech_ related topics, either in the form of a _short talk, guest lecture or Q&A session_. We have speakers from [Label A][labela], [De Correspondent][correspondent], [Awkward][awkward], [Fabrique][fabrique], [Mirabeau][mirabeau] and many great freelancers.
 
 ## Schedule
 
@@ -10,7 +10,8 @@ Every week we have the pleasure to have a guest speaker talk about _project tech
 | 01-03-19 | [Ronny Rook][speaker-ronny]  | JavaScript performance                          |
 | 08-03-19 | [Timon van Spronsen][speaker-timon]  | Progressive Web Apps                    |
 | 15-03-19 | [Leon de Korte][speaker-leon]  | Q&A about Datavisualization                   |
-| 24-04-19 | [Elco Klingen & Marko Kruijer][speaker-elco]  | Workshop design case study                   |
+| 26-04-19 | [Dave Bitter][speaker-dave]  | Front-end visie mirabeau                   |
+| 24-05-19 | [Elco Klingen & Marko Kruijer][speaker-elco]  | Workshop design case study                   |
 
 ## Preparation
 
@@ -36,6 +37,7 @@ Conduct][ruc] ([Regeling Ongewenst Gedrag][rog]).
 [speaker-timon]: https://timonvanspronsen.nl/
 [speaker-leon]: http://leondekorte.nl/
 [speaker-elco]: https://www.fabrique.nl/onze-mensen/
+[speaker-dave]: https://www.davebitter.com/
 
 [banner-guests]: https://cmda-bt.github.io/pt-course-18-19/assets/banner-guests.svg
 [sketch]: https://www.smashingmagazine.com/2014/11/how-to-get-started-with-sketchnotes/
